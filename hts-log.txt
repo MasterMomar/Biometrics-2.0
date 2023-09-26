@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 26 Sep 2023 10:50:21 at https://audiomotion.dev/demo/multi.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://audiomotion.dev/demo/multi.html -O1 "C:\My Web Sites\SkyNet Biometrics 2.0" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:55:26	Warning: 	Retry after error -4 (Incorrect length (245085 Bytes, 408722 expected)) at link https://audiomotion.dev/demo/media/dual.png (from https://audiomotion.dev/demo/index.html)
+10:55:26	Warning: 	Retry after error -4 (Incorrect length (212992 Bytes, 1099797 expected)) at link https://audiomotion.dev/demo/media/lumibars.png (from https://audiomotion.dev/demo/index.html)
+10:55:38	Warning: 	Retry after error -4 (Incorrect length (1371 Bytes, 4406 expected)) at link https://github.githubassets.com/assets/dark_colorblind-bf5665b96628.css (from https://github.com/hvianna/audioMotion-analyzer/blob/master/demo/multi.js)
+10:55:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://github.githubassets.com/assets/light_colorblind-c414b5ba1dce.css (from https://github.com/hvianna/audioMotion-analyzer/blob/master/demo/multi.js)
+11:05:37	Error: 	"Cancelled by User" (-1) at link https://audiomotion.dev/demo/media/night-mist.mp4 (from https://audiomotion.dev/demo/overlay.html)
+11:06:44	Error: 	"Not Found" (404) at link https://github.com/email_validity_checks (from https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fhvianna%2FaudioMotion-analyzer%2Fblob%2Fmaster%2Fdemo%2Fmulti.js&source=login)
+11:06:44	Error: 	"Not Found" (404) at link https://github.com/password_validity_checks (from https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fhvianna%2FaudioMotion-analyzer%2Fblob%2Fmaster%2Fdemo%2Fmulti.js&source=login)
+11:06:44	Error: 	"Not Found" (404) at link https://github.com/signup_check/username (from https://github.com/signup?return_to=https%3A%2F%2Fgithub.com%2Fhvianna%2FaudioMotion-analyzer%2Fblob%2Fmaster%2Fdemo%2Fmulti.js&source=login)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 31 seconds : 160 links scanned, 150 files written (11032608 bytes overall) [12441130 bytes received at 12554 bytes/sec], 6374077 bytes transferred using HTTP compression in 122 files, ratio 26%, 2.8 requests per connection
+(4 errors, 4 warnings, 0 messages)
